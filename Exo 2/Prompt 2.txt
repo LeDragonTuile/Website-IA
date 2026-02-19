@@ -1,0 +1,2 @@
+Improve the visual hierarchy, spacing, typography contrast and make it feel more luxurious and cinematic.
+Add subtle background gradients and improve card shadows.

@@ -1,0 +1,5 @@
+Improve mobile experience:
+- Better spacing
+- Larger buttons
+- Stack cards vertically
+- Optimize hero section for small screens

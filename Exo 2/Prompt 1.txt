@@ -1,0 +1,81 @@
+Create a premium dark-mode landing page for a luxury Time Travel Agency using React and Tailwind CSS.
+
+Project name: TimeTravel Agency
+
+STYLE:
+- Dark mode
+- Black / charcoal background
+- Elegant gold accents
+- Modern serif + sans-serif typography
+- Cinematic, immersive, premium look
+- Smooth animations
+- Fully responsive (mobile-first)
+
+STRUCTURE:
+
+1) HEADER
+- Logo text: "TimeTravel Agency"
+- Navigation links: Home, Destinations, Book, Contact
+- CTA button: "Explore Eras"
+- Sticky header
+- Mobile burger menu
+
+2) HERO SECTION
+- Fullscreen immersive background image (space/time theme)
+- Overlay gradient for readability
+- Centered content:
+    Title: "Travel Through Time With Elegance"
+    Subtitle: "Discover the most fascinating eras in history with a premium and secure experience."
+    CTA button: "Discover Destinations"
+- Smooth fade-in animation
+
+3) DESTINATIONS SECTION
+Create 3 interactive cards in a responsive grid.
+
+Each card must include:
+- Large immersive image
+- Destination title
+- Short description (2 lines)
+- Price
+- "Discover" button
+- Hover animation (scale + soft glow)
+
+DESTINATIONS:
+
+A) Paris 1889 – Belle Époque
+Description: Experience the Universal Exposition and witness the birth of the Eiffel Tower.
+Price: €4,500 / 3 days
+
+B) Cretaceous -65M
+Description: Explore a prehistoric world filled with majestic dinosaurs in a secure guided expedition.
+Price: €9,900 / 2 days
+
+C) Florence 1504 – Renaissance
+Description: Discover Renaissance Florence at the time of Michelangelo and artistic revolution.
+Price: €5,800 / 3 days
+
+4) CHATBOT WIDGET
+- Floating chat icon bottom-right
+- Opens a chat window modal
+- Dark theme with gold accents
+- Input placeholder: "Ask me about time travel experiences..."
+- Fake sample conversation for now (UI only)
+
+5) FOOTER
+- "TimeTravel Agency © 2026"
+- Links: Legal Notice, Contact
+- Minimalist design
+
+ANIMATIONS:
+- Fade-in sections on scroll
+- Smooth transitions (0.6–0.8s)
+- Elegant hover effects
+- No excessive motion
+
+TECH:
+- React
+- Tailwind CSS
+- Clean component structure
+- Accessible buttons
+- Optimized layout
+- Ready for Vercel deployment
