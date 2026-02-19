@@ -83,7 +83,7 @@ export default function Chatbot() {
             <input
               value={input}
               onChange={(e) => setInput(e.target.value)}
-              className="flex-1 p-2 text-black rounded-l"
+              className="flex-1 p-2 bg-input text-foreground placeholder:text-muted-foreground rounded-l"
               placeholder="Posez votre question..."
             />
             <button
